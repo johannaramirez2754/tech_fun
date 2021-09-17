@@ -6,7 +6,8 @@
 1. [Información General](#general-info)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
-4. [Collaborators](#collaboration)
+4. [Collaboradores](#collaboration)
+5. [Licencia](#license)
 
 ### General Info
 ***
@@ -29,9 +30,9 @@ Lista de tecnologías a usar en el proyecto
 * React JS
 * Node Js
 * MySQL - Sequelize
-* 
-*** 
 
+
+*** 
 ## Installation
 ***
 
@@ -43,10 +44,8 @@ $ npm install
 
 $ npm start
 
-```
 ***
-
-**## Collaborators**
+## Collaboration
 ***
 
 > @DiegoParraGarces
@@ -55,6 +54,7 @@ $ npm start
 > @OscarHub90
 > @dianaprada
 
-
-
-
+***
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+***
