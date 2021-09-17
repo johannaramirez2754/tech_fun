@@ -6,8 +6,8 @@
 1. [Información General](#general-info)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
-4. [Collaboradores](#collaboration)
-5. [Licencia](#license)
+4. [Collaborators](#collaboration)
+5. [License](#license)
 
 ### General Info
 ***
