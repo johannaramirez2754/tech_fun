@@ -13,8 +13,10 @@
 Se propone analizar, diseñar y construir una aplicación software que permita
 controlar las ventas físicas y virtuales de una empresa de manufactura y hacerles
 el correspondiente seguimiento. 
+
 ### Screenshot
 ![Image text](https://i.ibb.co/N9pp4FM/tech-fun.jpg)
+
 ***
 ## Technologies
 ***
@@ -34,12 +36,17 @@ Lista de tecnologías a usar en el proyecto
 ***
 
 $ git clone https://example.com
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
-```
 
-## Collaborators
+$ cd ../path/to/the/file
+
+$ npm install
+
+$ npm start
+
+```
+***
+
+**## Collaborators**
 ***
 
 > @DiegoParraGarces
@@ -49,7 +56,5 @@ $ npm start
 > @dianaprada
 
 
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
+
 
